@@ -1,0 +1,3431 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 3.0,
+    "Fps": 30.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 210,
+    "TotalSegmentCount": 420,
+    "TotalPointCount": 656,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_ANGLE_X",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_ANGLE_Y",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -14.094,
+        0.445,
+        -30,
+        0.667,
+        -30,
+        0,
+        2.333,
+        29.921,
+        1,
+        2.555,
+        29.921,
+        2.778,
+        15.512,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_ANGLE_Z",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -7.008,
+        0.489,
+        -14,
+        0.733,
+        -14,
+        0,
+        2.267,
+        10,
+        1,
+        2.511,
+        10,
+        2.756,
+        5.512,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_L_OPEN",
+      "Segments": [
+        0,
+        1,
+        2,
+        1.067,
+        1,
+        0,
+        1.333,
+        0,
+        0,
+        1.6,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_R_OPEN",
+      "Segments": [
+        0,
+        1,
+        2,
+        1.067,
+        1,
+        0,
+        1.333,
+        0,
+        0,
+        1.6,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BODY_ANGLE_X",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        4.646,
+        0.489,
+        10,
+        0.733,
+        10,
+        0,
+        2.267,
+        -10,
+        1,
+        2.511,
+        -10,
+        2.756,
+        -5.197,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BODY_ANGLE_Z",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        6,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BODY_ANGLE_Y",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param3",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        12,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -3.622,
+        0.489,
+        -9,
+        0.733,
+        -9,
+        0,
+        2.267,
+        13,
+        1,
+        2.511,
+        13,
+        2.756,
+        6.772,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param5",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        30,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param6",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -15.039,
+        0.489,
+        -30,
+        0.733,
+        -30,
+        0,
+        2.233,
+        30,
+        1,
+        2.489,
+        30,
+        2.744,
+        14.646,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param7",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        30,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param8",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        6.378,
+        0.489,
+        14,
+        0.733,
+        14,
+        0,
+        2.267,
+        -8,
+        1,
+        2.511,
+        -8,
+        2.756,
+        -3.622,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param15",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        5.748,
+        0.489,
+        12,
+        0.733,
+        12,
+        0,
+        2.233,
+        -25.512,
+        1,
+        2.489,
+        -25.512,
+        2.744,
+        -12.205,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param16",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.333,
+        30,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param17",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.189,
+        -5.118,
+        0.378,
+        -10,
+        0.567,
+        -10,
+        0,
+        2.1,
+        12,
+        1,
+        2.4,
+        12,
+        2.7,
+        6.063,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param18",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.6,
+        -15,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param19",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.278,
+        -14.488,
+        0.555,
+        -30,
+        0.833,
+        -30,
+        0,
+        2.367,
+        21,
+        1,
+        2.578,
+        21,
+        2.789,
+        10.079,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param20",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        -30,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param21",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.233,
+        9.528,
+        0.467,
+        21,
+        0.7,
+        21,
+        0,
+        2.233,
+        -18,
+        1,
+        2.489,
+        -18,
+        2.744,
+        -8.583,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param22",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.733,
+        -18,
+        0,
+        1.5,
+        0,
+        0,
+        2.267,
+        -18,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param23",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.867,
+        -17,
+        0,
+        1.633,
+        0,
+        0,
+        2.333,
+        -16,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_19",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -4,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_25",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        4,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_26",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -0.915,
+        0.489,
+        -2,
+        0.733,
+        -2,
+        0,
+        2.2,
+        1.557,
+        1,
+        2.467,
+        1.557,
+        2.733,
+        0.696,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_20",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        1.89,
+        0.489,
+        4.331,
+        0.733,
+        4.331,
+        0,
+        2.267,
+        -4,
+        1,
+        2.511,
+        -4,
+        2.756,
+        -1.89,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_23",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        16,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_BODY_24",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation6",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -7.559,
+        0.489,
+        -14.488,
+        0.733,
+        -14.488,
+        0,
+        2.267,
+        12,
+        1,
+        2.511,
+        12,
+        2.756,
+        6.063,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation7",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation8",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        18,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -9.528,
+        0.489,
+        -18,
+        0.733,
+        -18,
+        0,
+        2.267,
+        23,
+        1,
+        2.511,
+        23,
+        2.756,
+        11.969,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_EAR_3",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        5.591,
+        0.489,
+        11,
+        0.733,
+        11,
+        0,
+        2.267,
+        -11,
+        1,
+        2.511,
+        -11,
+        2.756,
+        -5.591,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_EAR_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.333,
+        15,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_EAR_7",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_EAR_6",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.533,
+        20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_EAR_5",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.6,
+        20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation10",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        -3,
+        0,
+        1.333,
+        8,
+        0,
+        2.633,
+        -3,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation11",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        -4,
+        0,
+        1.333,
+        13,
+        0,
+        2.633,
+        -5,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation12",
+      "Segments": [
+        0,
+        0,
+        0,
+        0.367,
+        -8,
+        0,
+        1.333,
+        20,
+        0,
+        2.633,
+        -6,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation13",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.4,
+        20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation15",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        -20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation17",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation19",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -9,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation14",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -9.186,
+        0.445,
+        -20,
+        0.667,
+        -20,
+        0,
+        2.2,
+        20,
+        1,
+        2.467,
+        20,
+        2.733,
+        9.659,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation16",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        9.659,
+        0.489,
+        20,
+        0.733,
+        20,
+        0,
+        2.267,
+        -19.79,
+        1,
+        2.511,
+        -19.79,
+        2.756,
+        -9.554,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation18",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -10.394,
+        0.511,
+        -20,
+        0.767,
+        -20,
+        0,
+        2.3,
+        20,
+        1,
+        2.533,
+        20,
+        2.767,
+        9.869,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation20",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.278,
+        8.976,
+        0.555,
+        20,
+        0.833,
+        20,
+        0,
+        2.367,
+        -19.843,
+        1,
+        2.578,
+        -19.843,
+        2.789,
+        -10.026,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        6,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_5",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        6,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_6",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -4.987,
+        0.489,
+        -10,
+        0.733,
+        -10,
+        0,
+        2.267,
+        5,
+        1,
+        2.511,
+        5,
+        2.756,
+        2.52,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_7",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -4.094,
+        0.511,
+        -8,
+        0.767,
+        -8,
+        0,
+        2.3,
+        16,
+        1,
+        2.533,
+        16,
+        2.767,
+        7.717,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_F_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        8,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_F_2",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -3.727,
+        0.489,
+        -8,
+        0.733,
+        -8,
+        0,
+        2.267,
+        4,
+        1,
+        2.511,
+        4,
+        2.756,
+        1.942,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_F_2",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -5.669,
+        0.489,
+        -12,
+        0.733,
+        -12,
+        0,
+        2.267,
+        13,
+        1,
+        2.511,
+        13,
+        2.756,
+        6.982,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_9",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        8,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_10",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.233,
+        -3.071,
+        0.467,
+        -5.905,
+        0.7,
+        -5.905,
+        0,
+        2.267,
+        7.716,
+        1,
+        2.511,
+        7.716,
+        2.756,
+        4.094,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_11",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.278,
+        -8.897,
+        0.555,
+        -17.794,
+        0.833,
+        -17.794,
+        0,
+        2.333,
+        12.755,
+        1,
+        2.555,
+        12.755,
+        2.778,
+        6.535,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_F_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        1,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_F_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        7,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_F_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -4.252,
+        0.489,
+        -8,
+        0.733,
+        -8,
+        0,
+        2.267,
+        9,
+        1,
+        2.511,
+        9,
+        2.756,
+        4.803,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_F_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -8.11,
+        0.511,
+        -17,
+        0.767,
+        -17,
+        0,
+        2.3,
+        18,
+        1,
+        2.533,
+        18,
+        2.767,
+        9.133,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_13",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        6,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_14",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -4.015,
+        0.489,
+        -7.873,
+        0.733,
+        -7.873,
+        0,
+        2.3,
+        8.74,
+        1,
+        2.533,
+        8.74,
+        2.767,
+        4.567,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_15",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -4.33,
+        0.511,
+        -7.873,
+        0.767,
+        -7.873,
+        0,
+        2.3,
+        7,
+        1,
+        2.533,
+        7,
+        2.767,
+        3.701,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_F_7",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        11,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_F_7",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        12,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_F_7",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -8.188,
+        0.511,
+        -17.637,
+        0.767,
+        -17.637,
+        0,
+        2.267,
+        28,
+        1,
+        2.511,
+        28,
+        2.756,
+        13.306,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        -13,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        4.262,
+        0.489,
+        9,
+        0.733,
+        9,
+        0,
+        2.267,
+        -7.873,
+        1,
+        2.511,
+        -7.873,
+        2.756,
+        -4.015,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_6_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        5.252,
+        0.489,
+        11,
+        0.733,
+        11,
+        0,
+        2.267,
+        -9,
+        1,
+        2.511,
+        -9,
+        2.756,
+        -4.567,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_R_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        -5,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_R_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        17,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_R_2",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -12.676,
+        0.489,
+        -25,
+        0.733,
+        -25,
+        0,
+        2.267,
+        13,
+        1,
+        2.511,
+        13,
+        2.756,
+        6.22,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_ArtMesh67",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        9,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_ArtMesh67",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_ArtMesh67",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.211,
+        -16.377,
+        0.422,
+        -31.996,
+        0.633,
+        -31.996,
+        0,
+        2.267,
+        15,
+        1,
+        2.511,
+        15,
+        2.756,
+        7.322,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_ArtMesh67",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.211,
+        -13.549,
+        0.422,
+        -30,
+        0.633,
+        -30,
+        0,
+        2.267,
+        21,
+        1,
+        2.511,
+        21,
+        2.756,
+        10.944,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_ArtMesh68",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        17,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_ArtMesh68",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -4.567,
+        0.489,
+        -10,
+        0.733,
+        -10,
+        0,
+        2.3,
+        12.755,
+        1,
+        2.533,
+        12.755,
+        2.767,
+        6.692,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_ArtMesh68",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -8.897,
+        0.489,
+        -18,
+        0.733,
+        -18,
+        0,
+        2.3,
+        12,
+        1,
+        2.533,
+        12,
+        2.767,
+        5.905,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        9,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_1",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -6.929,
+        0.489,
+        -15,
+        0.733,
+        -15,
+        0,
+        2.3,
+        11,
+        1,
+        2.533,
+        11,
+        2.767,
+        5.826,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_1",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -11.102,
+        0.489,
+        -23,
+        0.733,
+        -23,
+        0,
+        2.3,
+        13.621,
+        1,
+        2.533,
+        13.621,
+        2.767,
+        7.086,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_ArtMesh64",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        8,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_ArtMesh64",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -3.228,
+        0.489,
+        -6,
+        0.733,
+        -6,
+        0,
+        2.267,
+        8.346,
+        1,
+        2.511,
+        8.346,
+        2.756,
+        4.645,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_ArtMesh64",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        -9.842,
+        0.489,
+        -20.943,
+        0.733,
+        -20.943,
+        0,
+        2.3,
+        9.921,
+        1,
+        2.533,
+        9.921,
+        2.767,
+        5.511,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_ArtMesh66",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.244,
+        4.871,
+        0.489,
+        10,
+        0.733,
+        10,
+        0,
+        2.267,
+        -14,
+        1,
+        2.511,
+        -14,
+        2.756,
+        -7.165,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_ArtMesh66",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        9,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_ArtMesh66",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        19,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_ArtMesh66",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.433,
+        19,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_ArtMesh65",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        16,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_ArtMesh65",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.211,
+        -4.488,
+        0.422,
+        -10,
+        0.633,
+        -10,
+        0,
+        2.3,
+        19.211,
+        1,
+        2.533,
+        19.211,
+        2.767,
+        8.425,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_ArtMesh65",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.211,
+        -8.976,
+        0.422,
+        -18,
+        0.633,
+        -18,
+        0,
+        2.3,
+        17,
+        1,
+        2.533,
+        17,
+        2.767,
+        8.976,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        0.9,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        12,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_2",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -5.905,
+        0.445,
+        -12,
+        0.667,
+        -12,
+        0,
+        2.3,
+        10,
+        1,
+        2.533,
+        10,
+        2.767,
+        5.354,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_2",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -9.369,
+        0.445,
+        -20,
+        0.667,
+        -20,
+        0,
+        2.3,
+        11.731,
+        1,
+        2.533,
+        11.731,
+        2.767,
+        6.141,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        19,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -27,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -4.252,
+        0.445,
+        -9,
+        0.667,
+        -9,
+        0,
+        2.333,
+        7.716,
+        1,
+        2.555,
+        7.716,
+        2.778,
+        4.409,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.233,
+        -6.692,
+        0.467,
+        -15.904,
+        0.7,
+        -15.904,
+        0,
+        2.3,
+        6.692,
+        1,
+        2.533,
+        6.692,
+        2.767,
+        3.937,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_6_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -2.992,
+        0.445,
+        -5.826,
+        0.667,
+        -5.826,
+        0,
+        2.3,
+        8.976,
+        1,
+        2.533,
+        8.976,
+        2.767,
+        4.724,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_7_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -3.464,
+        0.445,
+        -7,
+        0.667,
+        -7,
+        0,
+        2.3,
+        6,
+        1,
+        2.533,
+        6,
+        2.767,
+        4.015,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        8,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        4,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -2,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -6.535,
+        0.445,
+        -11,
+        0.667,
+        -11,
+        0,
+        2.333,
+        5.039,
+        1,
+        2.555,
+        5.039,
+        2.778,
+        2.834,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_6_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -6.771,
+        0.445,
+        -13,
+        0.667,
+        -13,
+        0,
+        2.333,
+        8,
+        1,
+        2.555,
+        8,
+        2.778,
+        4.33,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_7_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -3.808,
+        0.445,
+        -8.132,
+        0.667,
+        -8.132,
+        0,
+        2.333,
+        8.661,
+        1,
+        2.555,
+        8.661,
+        2.778,
+        4.33,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_8_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -2.52,
+        0.445,
+        -5,
+        0.667,
+        -5,
+        0,
+        2.333,
+        8.818,
+        1,
+        2.555,
+        8.818,
+        2.778,
+        4.488,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        4.415,
+        0.445,
+        10,
+        0.667,
+        10,
+        0,
+        2.333,
+        -8.818,
+        1,
+        2.555,
+        -8.818,
+        2.778,
+        -4.409,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        20,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        28,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_3_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        12,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.467,
+        14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.211,
+        -7.873,
+        0.422,
+        -15.983,
+        0.633,
+        -15.983,
+        0,
+        2.333,
+        15.432,
+        1,
+        2.555,
+        15.432,
+        2.778,
+        7.716,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_6_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        -8.11,
+        0.445,
+        -19,
+        0.667,
+        -19,
+        0,
+        2.333,
+        19.841,
+        1,
+        2.555,
+        19.841,
+        2.778,
+        9.291,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation24",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param25",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        -3.904,
+        0.511,
+        -8,
+        0.767,
+        -8,
+        0,
+        2.267,
+        9,
+        1,
+        2.511,
+        9,
+        2.756,
+        4.306,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param26",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        3,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation21",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        10,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param28",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -22,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param29",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -1,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation22",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -14,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param31",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        15,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param33",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -1,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation23",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        -17,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param34",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.256,
+        4.328,
+        0.511,
+        9,
+        0.767,
+        9,
+        0,
+        2.267,
+        -7.898,
+        1,
+        2.511,
+        -7.898,
+        2.756,
+        -3.882,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param35",
+      "Segments": [
+        0,
+        0,
+        0,
+        1.5,
+        2,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_BODY",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_NECK",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_HAIR_BACK_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_HAIR_SIDE_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_HAIR_FRONT_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_EAR_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_NOSE_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_MOUTH_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_BROW_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_EYE_BALL_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_EYE_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "PARTS_01_FACE_001",
+      "Segments": [
+        0,
+        1,
+        2,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "Model",
+      "Id": "Opacity",
+      "Segments": [
+        0,
+        1,
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_L_SMILE",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_R_SMILE",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param11",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param12",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_BALL_X",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_EYE_BALL_Y",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param13",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param14",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_L_Y",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_L_X",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_L_ANGLE",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_L_FORM",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_R_Y",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_R_X",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_R_ANGLE",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BROW_R_FORM",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_MOUTH_FORM",
+      "Segments": [
+        0,
+        -1,
+        0,
+        3,
+        -1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param10",
+      "Segments": [
+        0,
+        30,
+        0,
+        3,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_MOUTH_OPEN_Y",
+      "Segments": [
+        0,
+        1,
+        0,
+        3,
+        1
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_CHEEK",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_BREATH",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_HAIR_FRONT",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_HAIR_SIDE",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_HAIR_BACK",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_ARM_L",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "PARAM_ARM_R",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_F_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_F_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_8",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_F_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_B_HAIR_FRONT_12",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_F_7",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_F_7",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_7_hair_R_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_R_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_2_hair_R_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_ArtMesh67",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_4_ArtMesh68",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_ArtMesh68",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_1",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_ArtMesh64",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_ArtMesh64",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_ArtMesh66",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_5_hair_B_2",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_8_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_9_hair_B_3",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_9_hair_B_4",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_6_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_7_hair_B_10",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_1_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param_Angle_Rotation_7_hair_B_16",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param24",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param27",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param30",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param32",
+      "Segments": [
+        0,
+        0,
+        0,
+        3,
+        0
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

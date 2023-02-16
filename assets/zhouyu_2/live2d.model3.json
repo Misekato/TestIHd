@@ -1,0 +1,73 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "live2d.moc3",
+		"Textures": [
+			"textures/texture_00.png"
+		],
+		"Physics": "live2d.physics3.json",
+		"Expressions": [
+			{
+				"Name": "exp_angry",
+				"File": "exp/exp_angry.exp3.json"
+			},
+			{
+				"Name": "exp_happy",
+				"File": "exp/exp_happy.exp3.json"
+			},
+			{
+				"Name": "exp_sad",
+				"File": "exp/exp_sad.exp3.json"
+			},
+			{
+				"Name": "exp_shy",
+				"File": "exp/exp_shy.exp3.json"
+			},
+			{
+				"Name": "exp_surprised",
+				"File": "exp/exp_surprised.exp3.json"
+			}
+		],
+    "Motions": {
+            "act_touch01": [
+                {
+                    "File": "motions/act_touch01.motion3.json"
+                }
+            ],
+            "act_touch02": [
+                {
+                    "File": "motions/act_touch02.motion3.json"
+                }
+            ],
+            "act_touch03": [
+                {
+                    "File": "motions/act_touch03.motion3.json"
+                }
+            ],
+			"idle": [
+                {
+                    "File": "motions/idle.motion3.json"
+                }
+            ]
+        }
+    },
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitAreas_touch01",
+			"Name": ""
+		},
+		{
+			"Id": "HitAreas_touch02",
+			"Name": ""
+		}
+	]
+}

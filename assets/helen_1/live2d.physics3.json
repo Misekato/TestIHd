@@ -1,0 +1,1287 @@
+{
+  "Version": 3,
+  "Meta": {
+    "PhysicsSettingCount": 6,
+    "TotalInputCount": 11,
+    "TotalOutputCount": 78,
+    "VertexCount": 16,
+    "EffectiveForces": {
+      "Gravity": {
+        "X": 0,
+        "Y": -1
+      },
+      "Wind": {
+        "X": 0,
+        "Y": 0
+      }
+    },
+    "PhysicsDictionary": [
+      {
+        "Id": "PhysicsSetting1",
+        "Name": "Dummy1"
+      },
+      {
+        "Id": "PhysicsSetting2",
+        "Name": "Dummy2"
+      },
+      {
+        "Id": "PhysicsSetting3",
+        "Name": "Dummy3"
+      },
+      {
+        "Id": "PhysicsSetting4",
+        "Name": "Dummy4"
+      },
+      {
+        "Id": "PhysicsSetting5",
+        "Name": "Dummy5"
+      },
+      {
+        "Id": "PhysicsSetting6",
+        "Name": "Dummy6"
+      }
+    ]
+  },
+  "PhysicsSettings": [
+    {
+      "Id": "PhysicsSetting1",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleX"
+          },
+          "Weight": 100,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleY"
+          },
+          "Weight": 0,
+          "Type": "X",
+          "Reflect": false
+        }
+      ],
+      "Output": [
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param3"
+          },
+          "VertexIndex": 1,
+          "Scale": 50,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param4"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param10"
+          },
+          "VertexIndex": 2,
+          "Scale": 5,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param9"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param12"
+          },
+          "VertexIndex": 2,
+          "Scale": 5,
+          "Weight": 80,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param11"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 80,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param17"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param18"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param20"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param19"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param22"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param21"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param24"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param23"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param26"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param25"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param28"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 80,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param27"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 80,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param30"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param29"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param34"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param33"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param36"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param35"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param38"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param37"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param40"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param39"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param42"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param41"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param43"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param44"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param46"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 100,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param45"
+          },
+          "VertexIndex": 1,
+          "Scale": 40,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        }
+      ],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 10
+          },
+          "Mobility": 1,
+          "Delay": 1.1,
+          "Acceleration": 1.5,
+          "Radius": 10
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 15
+          },
+          "Mobility": 0.66,
+          "Delay": 0.9,
+          "Acceleration": 1.5,
+          "Radius": 5
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    },
+    {
+      "Id": "PhysicsSetting2",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleX"
+          },
+          "Weight": 100,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleY"
+          },
+          "Weight": 0,
+          "Type": "X",
+          "Reflect": false
+        }
+      ],
+      "Output": [],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 15
+          },
+          "Mobility": 0.95,
+          "Delay": 0.8,
+          "Acceleration": 1.5,
+          "Radius": 15
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    },
+    {
+      "Id": "PhysicsSetting3",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleX"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleY"
+          },
+          "Weight": 50,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 80,
+          "Type": "Angle",
+          "Reflect": false
+        }
+      ],
+      "Output": [],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 5
+          },
+          "Mobility": 0.9,
+          "Delay": 0.8,
+          "Acceleration": 1.5,
+          "Radius": 5
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    },
+    {
+      "Id": "PhysicsSetting4",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamAngleX"
+          },
+          "Weight": 60,
+          "Type": "X",
+          "Reflect": false
+        },
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 40,
+          "Type": "X",
+          "Reflect": false
+        }
+      ],
+      "Output": [
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_1_houfazhongc1"
+          },
+          "VertexIndex": 1,
+          "Scale": 3,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_2_houfazhongc1"
+          },
+          "VertexIndex": 1,
+          "Scale": 5,
+          "Weight": 5,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_3_houfazhongc1"
+          },
+          "VertexIndex": 2,
+          "Scale": 10,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_4_houfazhongc1"
+          },
+          "VertexIndex": 2,
+          "Scale": 20,
+          "Weight": 20,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_5_houfazhongc1"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_6_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 20,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_7_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_8_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 5,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_9_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 3,
+          "Weight": 5,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_10_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 2,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_11_houfazhongc1"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_5_houfazhongc2"
+          },
+          "VertexIndex": 1,
+          "Scale": 10,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_6_houfazhongc2"
+          },
+          "VertexIndex": 2,
+          "Scale": 20,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_7_houfazhongc2"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 20,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_8_houfazhongc2"
+          },
+          "VertexIndex": 3,
+          "Scale": 20,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_9_houfazhongc2"
+          },
+          "VertexIndex": 3,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_10_houfazhongc2"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 5,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_11_houfazhongc2"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_5_houfazhongc3"
+          },
+          "VertexIndex": 1,
+          "Scale": 10,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_6_houfazhongc3"
+          },
+          "VertexIndex": 2,
+          "Scale": 20,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_7_houfazhongc3"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 20,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_8_houfazhongc3"
+          },
+          "VertexIndex": 2,
+          "Scale": 20,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_9_houfazhongc3"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_10_houfazhongc3"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation_11_houfazhongc3"
+          },
+          "VertexIndex": 3,
+          "Scale": 1,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation89"
+          },
+          "VertexIndex": 1,
+          "Scale": 20,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation90"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation91"
+          },
+          "VertexIndex": 3,
+          "Scale": 20,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation92"
+          },
+          "VertexIndex": 3,
+          "Scale": 20,
+          "Weight": 20,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation93"
+          },
+          "VertexIndex": 1,
+          "Scale": 20,
+          "Weight": 0,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation94"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation95"
+          },
+          "VertexIndex": 3,
+          "Scale": 20,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation96"
+          },
+          "VertexIndex": 3,
+          "Scale": 10,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation85"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation86"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation87"
+          },
+          "VertexIndex": 3,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation88"
+          },
+          "VertexIndex": 3,
+          "Scale": 30,
+          "Weight": 30,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation97"
+          },
+          "VertexIndex": 1,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation98"
+          },
+          "VertexIndex": 2,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param_Angle_Rotation99"
+          },
+          "VertexIndex": 3,
+          "Scale": 30,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        }
+      ],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 10
+          },
+          "Mobility": 0.85,
+          "Delay": 0.9,
+          "Acceleration": 1,
+          "Radius": 10
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 20
+          },
+          "Mobility": 0.9,
+          "Delay": 0.9,
+          "Acceleration": 1,
+          "Radius": 10
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 28
+          },
+          "Mobility": 0.9,
+          "Delay": 0.9,
+          "Acceleration": 0.8,
+          "Radius": 8
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    },
+    {
+      "Id": "PhysicsSetting5",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 70,
+          "Type": "X",
+          "Reflect": true
+        }
+      ],
+      "Output": [],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 14.5
+          },
+          "Mobility": 0.9,
+          "Delay": 0.8,
+          "Acceleration": 1,
+          "Radius": 14.5
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    },
+    {
+      "Id": "PhysicsSetting6",
+      "Input": [
+        {
+          "Source": {
+            "Target": "Parameter",
+            "Id": "ParamBodyAngleX"
+          },
+          "Weight": 70,
+          "Type": "X",
+          "Reflect": false
+        }
+      ],
+      "Output": [
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param31"
+          },
+          "VertexIndex": 1,
+          "Scale": 60,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param63"
+          },
+          "VertexIndex": 2,
+          "Scale": 60,
+          "Weight": 10,
+          "Type": "Angle",
+          "Reflect": false
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param32"
+          },
+          "VertexIndex": 1,
+          "Scale": 60,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": true
+        },
+        {
+          "Destination": {
+            "Target": "Parameter",
+            "Id": "Param64"
+          },
+          "VertexIndex": 2,
+          "Scale": 60,
+          "Weight": 50,
+          "Type": "Angle",
+          "Reflect": false
+        }
+      ],
+      "Vertices": [
+        {
+          "Position": {
+            "X": 0,
+            "Y": 0
+          },
+          "Mobility": 1,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 0
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 5
+          },
+          "Mobility": 0.9,
+          "Delay": 0.8,
+          "Acceleration": 1.5,
+          "Radius": 5
+        },
+        {
+          "Position": {
+            "X": 0,
+            "Y": 15
+          },
+          "Mobility": 0.95,
+          "Delay": 1,
+          "Acceleration": 1,
+          "Radius": 10
+        }
+      ],
+      "Normalization": {
+        "Position": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        },
+        "Angle": {
+          "Minimum": -10,
+          "Default": 0,
+          "Maximum": 10
+        }
+      }
+    }
+  ]
+}
