@@ -1,11 +1,11 @@
 {
-  "Version": 3,
-  "FileReferences": {
-    "Moc": "live2d.moc3",
-    "Textures": [
-      "textures/texture_00.png"
-    ],
-    "Physics": "live2d.physics3.json",
+    "Version": 3,
+    "FileReferences": {
+        "Moc": "live2d.moc3",
+        "Textures": [
+            "textures/texture_00.png"
+        ],
+        "Physics": "live2d.physics3.json",
         "Motions": {
             "act_touch01": [
                 {
@@ -22,12 +22,12 @@
                     "File": "motions/act_touch03.motion3.json"
                 }
             ],
-			"act_touch04": [
+            "act_touch04": [
                 {
                     "File": "motions/act_touch04.motion3.json"
                 }
             ],
-			"act_touch05": [
+            "act_touch05": [
                 {
                     "File": "motions/act_touch05.motion3.json"
                 }
@@ -39,13 +39,21 @@
             ]
         }
     },
-  "Groups": [
-    {
-      "Target": "Parameter",
-      "Name": "LipSync",
-      "Ids": [
-        "ParamMouthOpenY"
-      ]
-    }
-  ]
+    "Groups": [
+        {
+            "Target": "Parameter",
+            "Name": "LipSync",
+            "Ids": [
+                "ParamMouthOpenY"
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Name": "EyeBlink",
+            "Id": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ]
+        }
+    ]
 }

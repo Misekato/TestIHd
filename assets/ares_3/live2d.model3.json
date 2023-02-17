@@ -5,7 +5,7 @@
         "Textures": [
             "textures/texture_00.png"
         ],
-    "Physics": "live2d.physics3.json",
+        "Physics": null,
         "Motions": {
             "idle": [
                 {
@@ -20,6 +20,14 @@
             "Name": "LipSync",
             "Ids": [
                 "PARAM_MOUTH_OPEN_Y"
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Name": "EyeBlink",
+            "Id": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
             ]
         }
     ]

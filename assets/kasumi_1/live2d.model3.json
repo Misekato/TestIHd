@@ -27,6 +27,14 @@
             "Ids": [
                 "ParamMouthOpenY"
             ]
+        },
+        {
+            "Target": "Parameter",
+            "Name": "EyeBlink",
+            "Id": [
+                "ParamEyeLOpen",
+                "ParamEyeROpen"
+            ]
         }
     ]
 }
