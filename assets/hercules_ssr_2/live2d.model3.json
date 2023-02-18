@@ -3,7 +3,6 @@
     "FileReferences": {
         "Moc": "live2d.moc3",
         "Textures": [
-            "textures/Default-ParticleSystem.png",
             "textures/texture_00.png"
         ],
         "Physics": "live2d.physics3.json",
