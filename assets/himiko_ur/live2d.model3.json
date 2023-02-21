@@ -21,6 +21,16 @@
                 {
                     "File": "motions/act_touch02.motion3.json"
                 }
+            ],
+            "act_touch03": [
+                {
+                    "File": "motions/act_touch03.motion3.json"
+                }
+            ],
+            "act_touch04": [
+                {
+                    "File": "motions/act_touch04.motion3.json"
+                }
             ]
         }
     },
