@@ -9,13 +9,17 @@
         "Motions": {
             "idle": [
                 {
-                    "File": "motions/special1.motion3.json"
-                },
+                    "File": "motions/idle.motion3.json"
+                }
+            ],
+            "act_touch01": [
                 {
                     "File": "motions/act_touch01.motion3.json"
-                },
+                }
+            ],
+            "act_touch02": [
                 {
-                    "File": "motions/idle.motion3.json"
+                    "File": "motions/act_touch02.motion3.json"
                 }
             ]
         }
