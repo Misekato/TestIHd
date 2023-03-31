@@ -17,11 +17,6 @@
                     "File": "motions/act_touch02.motion3.json"
                 }
             ],
-            "act_touch03": [
-                {
-                    "File": "motions/act_touch03.motion3.json"
-                }
-            ],
             "idle": [
                 {
                     "File": "motions/idle.motion3.json"
