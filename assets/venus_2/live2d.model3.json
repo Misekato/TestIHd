@@ -17,11 +17,12 @@
                     "File": "motions/act_touch01.motion3.json"
                 }
             ],
-            "act_touch02": [
+			"act_touch02": [
                 {
                     "File": "motions/act_touch02.motion3.json"
                 }
             ]
+        }
     },
   "Groups": [
     {
