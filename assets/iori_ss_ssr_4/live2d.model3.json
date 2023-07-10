@@ -7,38 +7,14 @@
       "textures/texture_01.png"
     ],
     "Physics": "live2d.physics3.json",
-    "Motions": {
-      "": [
-        {
-          "File": "motions/act_touch01_1.motion3.json"
-        },
-        {
-          "File": "motions/act_touch02_2.motion3.json"
-        },
-        {
-          "File": "motions/act_touch03_2.motion3.json"
-        },
-        {
-          "File": "motions/act_touch03_1.motion3.json"
-        },
-        {
-          "File": "motions/act_touch02_1.motion3.json"
-        },
-        {
-          "File": "motions/act_touch04_1.motion3.json"
-        },
-        {
-          "File": "motions/act_touch01_2.motion3.json"
-        },
-        {
-          "File": "motions/act_touch04_2.motion3.json"
-        },
-        {
-          "File": "motions/idle.motion3.json"
+         "Motions": {
+            "idle": [
+                {
+                    "File": "motions/idle.motion3.json"
+                }
+            ]
         }
-      ]
-    }
-  },
+    },
   "Groups": [
     {
       "Target": "Parameter",

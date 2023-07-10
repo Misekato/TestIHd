@@ -7,7 +7,7 @@
     ],
     "Physics": "live2d.physics3.json",
     "Motions": {
-      "": [
+      "idle": [
         {
           "File": "motions/idle.motion3.json"
         }
