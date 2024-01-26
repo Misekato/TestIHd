@@ -6,7 +6,7 @@
       "textures/texture_00.png"
     ],
     "Physics": "live2d.physics3.json",
-    "Motions": {
+     "Motions": {
       "act_touch01": [
         {
           "File": "motions/act_touch01.motion3.json"
@@ -18,7 +18,17 @@
         }
       ]
     },
+    "Expressions": []
+  },
   "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
     {
       "Target": "Parameter",
       "Name": "LipSync",
